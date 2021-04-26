@@ -15,6 +15,18 @@ body {
   margin: 0 auto;
 }
 
+#cabecera {
+  background: #33a;
+  color: white;
+  margin: 0;
+  font-weight: bold;
+  padding: .5em;
+}
+
 #container h1 {
   font-size: 20px;
+}
+
+#post {
+  
 }
